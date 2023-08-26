@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+:root{
+--color1: #0DB9FA;
+--color2: #E1B923;
+--color3: #E20C0F;
+}
+
+body{
+background-image: url();
+}
+
+header, main, footer{
+position: absolute;
+}
