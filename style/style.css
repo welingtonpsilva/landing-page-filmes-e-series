@@ -34,10 +34,21 @@ main{
 position: relative;
 }
 main span{
-    display: block;
+display: block;
 position: absolute;
 margin-left: 50px;
 color: #E1B923;
+}
+
+main p{
+display: none;
+margin-top: 200px;
+padding-left: 300px;
+padding-right: 300px;
+color: #E1B923;
+font-size: 30px;
+text-align: center;
+background-color: rgba(0, 0, 0, 0.363);
 }
 
 main section{
