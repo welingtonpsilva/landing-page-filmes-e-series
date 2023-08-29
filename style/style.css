@@ -35,7 +35,7 @@ nav img {
 height: 100px;
 }
 nav img:hover{
-height: 120px;
+transform: scale(1.3);
 cursor: pointer;
 }
 main{
@@ -89,9 +89,7 @@ margin-bottom: 20px;
 text-decoration: none;
 }
 main section a:hover{
-    border: solid 3px var(--color2);
-    background-color: #e1b82380;
-    font-size: 31px;
+    background-color: #e1b8231e;
     color: gold;
-    transition: 0.2s;
+    transform: scale(1.1);
     }
