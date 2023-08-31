@@ -31,7 +31,7 @@ function clicaricon(){
     }
     else{
         nav.style.display = ('none')
-        buttons.style.marginTop = ('249px')
+        buttons.style.marginTop = ('242px')
     }
     
     }
